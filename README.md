@@ -2,7 +2,10 @@
 Blood:
 * https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79798
 
-Fibroblast: 
+Epidermis
+* https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52972
+
+Fibroblast
 * https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48580 (senescent)
 * https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104283 (reprogramming)
 Brain
