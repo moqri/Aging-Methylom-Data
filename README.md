@@ -22,3 +22,6 @@ Liver
 ## RRBS
 6 tissue
 * https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120137
+
+##Array
+[Skin](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51954) 
